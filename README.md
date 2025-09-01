@@ -25,7 +25,7 @@
 - After each round the winner's score is updated by an increase of 1. 
 
 ## Demo image 
-
+![Game demo image](demo.png)
 
 
 ## Areas for future improvement 
